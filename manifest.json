@@ -1,6 +1,6 @@
 [
   {
-    "guid": "b7e8dce1-44df-4b37-91a3-15fcf9f3b76a",
+    "guid": "abcdef01-2345-6789-abcd-ef0123456789",
     "name": "Custom Logo",
     "description": "Replace the default Jellyfin logo with your own.",
     "overview": "Allows uploading a custom logo to replace Jellyfin branding.",
