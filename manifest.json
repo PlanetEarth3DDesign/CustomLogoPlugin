@@ -4,14 +4,14 @@
     "name": "Custom Logo",
     "description": "Replace the default Jellyfin logo with your own.",
     "overview": "Allows uploading a custom logo to replace Jellyfin branding.",
-    "owner": "bvolvy",
+    "owner": "Wesley",
     "category": "General",
     "imageUrl": "https://raw.githubusercontent.com/bvolvy/CustomLogoPlugin/main/static/icon.png",
     "versions": [
       {
         "version": "1.0.0",
         "targetAbi": "10.10.7.0",
-        "sourceUrl": "https://github.com/PlanetEarth3DDesign/CustomLogoPlugin/releases/download/V1.0.0/CustomLogoPlugin-1.1.0.zip",
+        "sourceUrl": "https://github.com/PlanetEarth3DDesign/CustomLogoPlugin/releases/download/V1.0.0/CustomLogoPlugin-1.0.0.zip",
         "checksum": "2CE67E4BFE777D8E61210BC895380439",
         "timestamp": "2025-04-30T23:00:00Z"
       }
