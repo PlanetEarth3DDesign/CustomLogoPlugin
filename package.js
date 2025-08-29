@@ -54,7 +54,7 @@ output.on('close', () => {
       {
         version: pluginVersion,
         changelog: "Initial release",
-        targetAbi: manifest.targetAbi || "10.8.0.0",
+        targetAbi: manifest.targetAbi || "10.10.7.0",
         sourceUrl: `https://example.com/downloads/${pluginName}_${pluginVersion}.zip`,
         checksum: "SHA512:" + require('crypto').createHash('sha512').update(fs.readFileSync(outputFile)).digest('hex'),
         timestamp: new Date().toISOString()
